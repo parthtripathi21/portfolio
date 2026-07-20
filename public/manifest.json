@@ -1,0 +1,15 @@
+{
+  "name": "Parth Tripathi Portfolio",
+  "short_name": "Parth",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/parth.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
