@@ -2,10 +2,7 @@
 
 A modern, responsive portfolio website showcasing my projects, technical skills and experience as a software developer. Built with React, Vite, Tailwind CSS and Framer Motion, the portfolio is designed to provide a fast, clean and engaging experience across all devices.
 
-## 🌐 Live Demo
-
-🔗 **Portfolio:** *https://portfolio-swart-two-95.vercel.app*
-
+## 🌐 [Live Demo](https://portfolio-swart-two-95.vercel.app)
 
 ---
 
@@ -97,41 +94,6 @@ A plant disease detection application developed using deep learning to identify 
 * FastAPI
 
 ---
-
-## ⚙️ Getting Started
-
-Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/portfolio.git
-```
-
-Navigate into the project
-
-```bash
-cd portfolio
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the development server
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
-
----
-
 ## 📈 Future Improvements
 
 * Blog section
@@ -145,9 +107,9 @@ npm run build
 
 ## 🤝 Connect With Me
 
-* GitHub: https://github.com/parthtripathi21
-* LinkedIn: https://linkedin.com/in/parthtripathi21
-* Portfolio: *https://portfolio-swart-two-95.vercel.app*
+* [GitHub](https://github.com/parthtripathi21)*
+* [LinkedIn](https://linkedin.com/in/parthtripathi21)*
+* [Portfolio](https://portfolio-swart-two-95.vercel.app)*
 
 ---
 
