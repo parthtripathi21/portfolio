@@ -61,8 +61,8 @@ export const projects = [
       "Employee dashboard featuring CRUD operations, authentication-ready architecture, and responsive design.",
     image: "/projects/ems.png",
     tech: ["React", "FastAPI", "PostgreSQL"],
-    github: "https://github.com/parthtripathi21/EMS-React-.git",
-    demo: "https://parthtripathi21.github.io/EMS-React-/",
+    github: "https://github.com/parthtripathi21/WorkTrack-EMS.git",
+    demo: "https://worktrack-ems-eight.vercel.app",
     featured: false,
   },
 

@@ -107,9 +107,9 @@ A plant disease detection application developed using deep learning to identify 
 
 ## 🤝 Connect With Me
 
-* [GitHub](https://github.com/parthtripathi21)*
-* [LinkedIn](https://linkedin.com/in/parthtripathi21)*
-* [Portfolio](https://portfolio-swart-two-95.vercel.app)*
+* [GitHub](https://github.com/parthtripathi21)
+* [LinkedIn](https://linkedin.com/in/parthtripathi21)
+* [Portfolio](https://portfolio-swart-two-95.vercel.app)
 
 ---
 
