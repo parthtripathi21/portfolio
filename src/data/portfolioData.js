@@ -56,14 +56,14 @@ export const projects = [
 
   {
     id: 3,
-    title: "Employee Management System",
+    title: "WorkTrack - EMS",
     description:
-      "Employee dashboard featuring CRUD operations, authentication-ready architecture, and responsive design.",
+      "Employee dashboard featuring operations, authentication-ready architecture and responsive design.",
     image: "/projects/ems.png",
-    tech: ["React", "FastAPI", "PostgreSQL"],
+    tech: ["React", "TailwindCSS", "Context API"],
     github: "https://github.com/parthtripathi21/WorkTrack-EMS.git",
     demo: "https://worktrack-ems-eight.vercel.app",
-    featured: false,
+    featured: true,
   },
 
   {
